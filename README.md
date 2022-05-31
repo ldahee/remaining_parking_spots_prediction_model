@@ -1,5 +1,3 @@
-# remaining_parking_spots_prediction_model
-
 # 남은 주차 자리 수 예측 모델
 
 - 군산대학교 소프트웨어융합공학과 4학년 2학기 텀프로젝트
@@ -9,7 +7,7 @@
 
 ## 프로젝트 배경 및 목표
 
-![rMateChart1257011png](file://F:\대학교\4학년%202학기\클라우드기반IoT프로그래밍\rMateChart_1257011.png)
+![rMateChart_1257011](https://user-images.githubusercontent.com/41093239/171192044-85c6695c-b7cb-4a25-aa6c-2a7710b94c8d.png)
 
 - 매년 자동차 총 등록대수가 증가하고 있으며, 주차난이 심각함
   
@@ -30,7 +28,7 @@
 
 수집한 데이터는 MySQL에 저장됨
 
-![가상 주차장png](file://F:\대학교\4학년%202학기\클라우드기반IoT프로그래밍\가상%20주차장.png)
+![가상 주차장](https://user-images.githubusercontent.com/41093239/171192089-f1f701f4-c7f5-4de4-8291-b41848fa77d8.png)
 
 - 수집 데이터 예시
   
@@ -67,7 +65,6 @@
   | 1   | 1   | 12  | 0   |
   | 1   | 1   | 12.16667 | 2   |
   | 1   | 1   | 12.33333 | 2   |
-  |     |     |     |     |
   
   - park\_id: 주차 구역 아이디
     
